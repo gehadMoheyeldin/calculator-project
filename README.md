@@ -6,7 +6,10 @@ When building a calculator project using Python and Tkinter, you'll need to impo
 
 
 #import tkinter as tk
-from tkinter import messagebox
+
+from tkinter
+
+import messagebox
 
 
 
